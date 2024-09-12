@@ -9,7 +9,7 @@
     - Install ansible 
 
 
-2. Install the ansible controller go to docs.ansible.com selecet [ansible core](https://docs.ansible.com/ansible-core/devel/index.html) contine as follows ![ansibleinstall](https://github.com/email4prasanth/Practice/blob/master/Ansible/Images/ansibleinstall1.png) with the following commands
+2. Install the ansible controller go to docs.ansible.com select [ansible core](https://docs.ansible.com/ansible-core/devel/index.html), **Installation, Upgrade & Configuration -- Installing Ansible on specific operating systems-- Installing Ansible on Ubuntu** contine as follows ![ansibleinstall](https://github.com/email4prasanth/Practice/blob/master/Ansible/Images/ansibleinstall1.png) with the following commands
     ```
     sudo apt update
     sudo apt install software-properties-common

@@ -1,0 +1,11 @@
+ ---
+- name: Ansible Syntax for reference
+  hosts: dev
+  become: yes
+  become_user: root
+  connection: ssh
+  tasks:
+    - name: install git in remote repo
+      apt: >
+      name=git
+      state=present
